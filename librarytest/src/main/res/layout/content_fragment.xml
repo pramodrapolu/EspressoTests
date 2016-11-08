@@ -8,7 +8,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:text="Espresso Test"
+        android:text="@string/espresso_test"
         android:textSize="20sp"
         android:layout_marginTop="40dp"
         />
@@ -17,7 +17,7 @@
         android:id="@+id/test_click"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Test Click"
+        android:text="@string/test_click"
         android:layout_marginTop="70dp"
         android:layout_gravity="center_horizontal" />
 
