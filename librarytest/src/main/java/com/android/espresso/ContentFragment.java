@@ -13,6 +13,8 @@ public class ContentFragment extends Fragment implements View.OnClickListener {
 
     public static final String TAG = ContentFragment.class.getSimpleName();
 
+    private String test = "";
+
     private TextView espressoTest;
     private Button testClick;
 
