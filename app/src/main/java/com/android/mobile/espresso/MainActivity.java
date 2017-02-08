@@ -5,9 +5,6 @@ import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v7.app.AppCompatActivity;
 
-import com.staples.mobile.espresso.ContentFragment;
-import com.staples.mobile.espresso.R;
-
 public class MainActivity extends AppCompatActivity {
 
     @Override

@@ -9,8 +9,6 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.staples.mobile.espresso.R;
-
 public class ContentFragment extends Fragment implements View.OnClickListener {
 
     public static final String TAG = ContentFragment.class.getSimpleName();
